@@ -2,9 +2,9 @@
 Group Number:  7
 Lab (L2 or L3): L3
 Students Names:  
-1-  Aryan Laxman Sirohi: 101199497
-2-  Miller Timlin: 101115779
-3-  Basel Syed: 101173816
+1-  Aryan Laxman Sirohi
+2-  Miller Timlin
+3-  Basel Syed
 -------------------------  
 ## What is the project?
 
